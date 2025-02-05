@@ -1,5 +1,5 @@
 # Movie Flix 🎥  
-**Assignment Category:** Orchid  
+
 
 Welcome to **Movie Flix**, a modern movie website designed to provide users with a seamless experience to explore and interact with movies. Built with **MongoDB** as the backend, **Firebase** for authentication, and **React** for the frontend, this project showcases a robust and scalable architecture.  
 
